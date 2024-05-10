@@ -1,6 +1,5 @@
 package com.sanyavertolet.handmadespring;
 
-import com.sanyavertolet.handmadespring.policeman.AngryPoliceman;
 import com.sanyavertolet.handmadespring.policeman.Policeman;
 import com.sanyavertolet.handmadespring.policeman.RegularPoliceman;
 

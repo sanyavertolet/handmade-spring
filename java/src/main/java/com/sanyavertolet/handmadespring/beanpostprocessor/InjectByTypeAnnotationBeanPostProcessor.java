@@ -1,7 +1,6 @@
 package com.sanyavertolet.handmadespring.beanpostprocessor;
 
 import com.sanyavertolet.handmadespring.ApplicationContext;
-import com.sanyavertolet.handmadespring.ObjectFactory;
 import com.sanyavertolet.handmadespring.annotations.InjectByType;
 import lombok.SneakyThrows;
 

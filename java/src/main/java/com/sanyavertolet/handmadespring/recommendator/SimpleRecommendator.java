@@ -2,7 +2,6 @@ package com.sanyavertolet.handmadespring.recommendator;
 
 import com.sanyavertolet.handmadespring.annotations.InjectProperty;
 import com.sanyavertolet.handmadespring.annotations.Singleton;
-import com.sanyavertolet.handmadespring.annotations.Timed;
 
 @SuppressWarnings("unused")
 @Singleton

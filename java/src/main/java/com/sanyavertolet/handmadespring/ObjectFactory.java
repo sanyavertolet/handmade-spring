@@ -1,16 +1,11 @@
 package com.sanyavertolet.handmadespring;
 
-import com.sanyavertolet.handmadespring.annotations.Timed;
 import com.sanyavertolet.handmadespring.beanpostprocessor.BeanPostProcessor;
 import com.sanyavertolet.handmadespring.proxypostprocessor.ProxyPostProcessor;
-import lombok.Setter;
 import lombok.SneakyThrows;
 
 import javax.annotation.PostConstruct;
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import java.lang.reflect.Proxy;
 import java.util.ArrayList;
 import java.util.List;
 

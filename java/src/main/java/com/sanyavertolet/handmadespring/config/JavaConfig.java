@@ -2,7 +2,6 @@ package com.sanyavertolet.handmadespring.config;
 
 import org.reflections.Reflections;
 
-import java.util.Collection;
 import java.util.Map;
 import java.util.Set;
 
